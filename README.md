@@ -27,6 +27,6 @@ A responsive website that displays available books in the store, along with thei
 * Import the database bookstore.sql in MySql server.
 * Set up the connection credentials in dbconnect.php </br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<kbd><img src="screenshot/connection.png" width="200" height="100"/></kbd>
-* Thats it. Open <a href="http://localhost/bookstore/story.php">localhost/bookstore/story.php</a> in your browser
+* Thats it. Open <a href="http://localhost/bookstore-master 1/story.php">localhost/bookstore-master 1/story.php</a> in your browser
 
 
