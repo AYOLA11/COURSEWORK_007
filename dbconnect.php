@@ -1,6 +1,6 @@
 <?php 
 define('DB_HOST', 'localhost'); 
-define('DB_NAME', 'bookstore-master 1'); 
+define('DB_NAME', 'COURSEWORK_007'); 
 define('DB_USER','root'); 
 define('DB_PASSWORD',''); 
 
